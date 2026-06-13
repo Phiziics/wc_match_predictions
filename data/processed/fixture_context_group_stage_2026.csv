@@ -1,0 +1,73 @@
+match_id,stage,group_code,match_date,local_time,team_a_id,team_a_name,team_b_id,team_b_name,venue_id,stadium,city,country,venue_altitude_m,team_a_rest_days,team_b_rest_days,rest_days_difference,team_a_travel_km,team_b_travel_km,travel_km_difference
+GS001,Group Stage,A,2026-06-11,13:00,MEX,Mexico,RSA,South Africa,VEN03,Estadio Azteca,Mexico City,Mexico,2200,,,,,,
+GS002,Group Stage,A,2026-06-11,20:00,KOR,South Korea,CZE,Czechia,VEN05,Estadio Akron,Zapopan,Mexico,540,,,,,,
+GS007,Group Stage,B,2026-06-12,15:00,CAN,Canada,BIH,Bosnia and Herzegovina,VEN02,BMO Field,Toronto,Canada,76,,,,,,
+GS019,Group Stage,D,2026-06-12,18:00,USA,United States,PAR,Paraguay,VEN11,SoFi Stadium,Inglewood,United States,265,,,,,,
+GS008,Group Stage,B,2026-06-13,12:00,QAT,Qatar,SUI,Switzerland,VEN14,Levi's Stadium,Santa Clara,United States,12,,,,,,
+GS013,Group Stage,C,2026-06-13,18:00,BRA,Brazil,MAR,Morocco,VEN15,Gillette Stadium,Foxborough,United States,2,,,,,,
+GS020,Group Stage,D,2026-06-13,21:00,AUS,Australia,TUR,Turkiye,VEN01,BC Place,Vancouver,Canada,70,,,,,,
+GS014,Group Stage,C,2026-06-13,21:00,HAI,Haiti,SCO,Scotland,VEN06,MetLife Stadium,East Rutherford,United States,56,,,,,,
+GS026,Group Stage,E,2026-06-14,12:00,GER,Germany,CUW,Curacao,VEN09,NRG Stadium,Houston,United States,163,,,,,,
+GS025,Group Stage,E,2026-06-14,13:00,CIV,Ivory Coast,ECU,Ecuador,VEN12,Lincoln Financial Field,Philadelphia,United States,320,,,,,,
+GS031,Group Stage,F,2026-06-14,15:00,NED,Netherlands,JPN,Japan,VEN07,AT&T Stadium,Arlington,United States,7,,,,,,
+GS032,Group Stage,F,2026-06-14,20:00,SWE,Sweden,TUN,Tunisia,VEN04,Estadio BBVA,Guadalupe,Mexico,1566,,,,,,
+GS044,Group Stage,H,2026-06-15,12:00,ESP,Spain,CPV,Cape Verde,VEN10,Mercedes-Benz Stadium,Atlanta,United States,13,,,,,,
+GS038,Group Stage,G,2026-06-15,12:00,BEL,Belgium,EGY,Egypt,VEN13,Lumen Field,Seattle,United States,2,,,,,,
+GS043,Group Stage,H,2026-06-15,18:00,KSA,Saudi Arabia,URU,Uruguay,VEN16,Hard Rock Stadium,Miami Gardens,United States,88,,,,,,
+GS037,Group Stage,G,2026-06-15,18:00,IRN,Iran,NZL,New Zealand,VEN11,SoFi Stadium,Inglewood,United States,265,,,,,,
+GS049,Group Stage,I,2026-06-16,15:00,FRA,France,SEN,Senegal,VEN06,MetLife Stadium,East Rutherford,United States,56,,,,,,
+GS050,Group Stage,I,2026-06-16,18:00,IRQ,Iraq,NOR,Norway,VEN15,Gillette Stadium,Foxborough,United States,2,,,,,,
+GS055,Group Stage,J,2026-06-16,20:00,ARG,Argentina,ALG,Algeria,VEN08,Arrowhead Stadium,Kansas City,United States,38,,,,,,
+GS056,Group Stage,J,2026-06-16,21:00,AUT,Austria,JOR,Jordan,VEN14,Levi's Stadium,Santa Clara,United States,12,,,,,,
+GS061,Group Stage,K,2026-06-17,12:00,POR,Portugal,COD,DR Congo,VEN09,NRG Stadium,Houston,United States,163,,,,,,
+GS068,Group Stage,L,2026-06-17,15:00,ENG,England,CRO,Croatia,VEN07,AT&T Stadium,Arlington,United States,7,,,,,,
+GS067,Group Stage,L,2026-06-17,19:00,GHA,Ghana,PAN,Panama,VEN02,BMO Field,Toronto,Canada,76,,,,,,
+GS062,Group Stage,K,2026-06-17,20:00,UZB,Uzbekistan,COL,Colombia,VEN03,Estadio Azteca,Mexico City,Mexico,2200,,,,,,
+GS009,Group Stage,B,2026-06-18,12:00,SUI,Switzerland,BIH,Bosnia and Herzegovina,VEN11,SoFi Stadium,Inglewood,United States,265,5.0,5.88,-0.8799999999999999,1657.4,1354.6,302.8000000000002
+GS003,Group Stage,A,2026-06-18,12:00,CZE,Czechia,RSA,South Africa,VEN10,Mercedes-Benz Stadium,Atlanta,United States,13,6.67,6.96,-0.29000000000000004,652.5,1214.6,-562.0999999999999
+GS010,Group Stage,B,2026-06-18,15:00,CAN,Canada,QAT,Qatar,VEN01,BC Place,Vancouver,Canada,70,6.0,5.12,0.8799999999999999,3356.8,3866.8,-510.0
+GS004,Group Stage,A,2026-06-18,19:00,MEX,Mexico,KOR,South Korea,VEN05,Estadio Akron,Zapopan,Mexico,540,7.25,6.96,0.29000000000000004,716.7,0.0,716.7
+GS022,Group Stage,D,2026-06-19,12:00,USA,United States,AUS,Australia,VEN13,Lumen Field,Seattle,United States,2,6.75,5.62,1.13,1970.7,4491.5,-2520.8
+GS015,Group Stage,C,2026-06-19,18:00,SCO,Scotland,MAR,Morocco,VEN12,Lincoln Financial Field,Philadelphia,United States,320,5.88,6.0,-0.1200000000000001,3504.0,1202.9,2301.1
+GS021,Group Stage,D,2026-06-19,21:00,TUR,Turkiye,PAR,Paraguay,VEN14,Levi's Stadium,Santa Clara,United States,12,6.0,7.12,-1.12,3866.8,1657.4,2209.4
+GS016,Group Stage,C,2026-06-19,21:00,BRA,Brazil,HAI,Haiti,VEN15,Gillette Stadium,Foxborough,United States,2,6.12,6.0,0.1200000000000001,0.0,3855.3,-3855.3
+GS033,Group Stage,F,2026-06-20,12:00,NED,Netherlands,SWE,Sweden,VEN09,NRG Stadium,Houston,United States,163,5.88,5.67,0.20999999999999996,2314.9,1482.4,832.5
+GS027,Group Stage,E,2026-06-20,16:00,GER,Germany,CIV,Ivory Coast,VEN02,BMO Field,Toronto,Canada,76,6.17,6.12,0.04999999999999982,1955.4,1179.8,775.6000000000001
+GS028,Group Stage,E,2026-06-20,19:00,ECU,Ecuador,CUW,Curacao,VEN08,Arrowhead Stadium,Kansas City,United States,38,6.25,6.29,-0.040000000000000036,3119.5,1974.3,1145.2
+GS034,Group Stage,F,2026-06-20,22:00,TUN,Tunisia,JPN,Japan,VEN04,Estadio BBVA,Guadalupe,Mexico,1566,6.08,6.29,-0.20999999999999996,0.0,2577.4,-2577.4
+GS046,Group Stage,H,2026-06-21,12:00,ESP,Spain,KSA,Saudi Arabia,VEN10,Mercedes-Benz Stadium,Atlanta,United States,13,6.0,5.75,0.25,0.0,2561.8,-2561.8
+GS039,Group Stage,G,2026-06-21,12:00,BEL,Belgium,IRN,Iran,VEN11,SoFi Stadium,Inglewood,United States,265,6.0,5.75,0.25,1970.7,0.0,1970.7
+GS045,Group Stage,H,2026-06-21,18:00,URU,Uruguay,CPV,Cape Verde,VEN16,Hard Rock Stadium,Miami Gardens,United States,88,6.0,6.25,-0.25,0.0,2561.8,-2561.8
+GS040,Group Stage,G,2026-06-21,18:00,NZL,New Zealand,EGY,Egypt,VEN01,BC Place,Vancouver,Canada,70,6.0,6.25,-0.25,2530.2,4491.5,-1961.3000000000002
+GS057,Group Stage,J,2026-06-22,12:00,ARG,Argentina,AUT,Austria,VEN07,AT&T Stadium,Arlington,United States,7,5.67,5.62,0.04999999999999982,504.6,4027.1,-3522.5
+GS052,Group Stage,I,2026-06-22,17:00,FRA,France,IRQ,Iraq,VEN12,Lincoln Financial Field,Philadelphia,United States,320,6.08,5.96,0.1200000000000001,3504.0,1202.9,2301.1
+GS051,Group Stage,I,2026-06-22,20:00,NOR,Norway,SEN,Senegal,VEN06,MetLife Stadium,East Rutherford,United States,56,6.08,6.21,-0.1299999999999999,3855.3,0.0,3855.3
+GS058,Group Stage,J,2026-06-22,20:00,JOR,Jordan,ALG,Algeria,VEN14,Levi's Stadium,Santa Clara,United States,12,5.96,6.0,-0.040000000000000036,0.0,3856.0,-3856.0
+GS063,Group Stage,K,2026-06-23,12:00,POR,Portugal,UZB,Uzbekistan,VEN09,NRG Stadium,Houston,United States,163,6.0,5.67,0.33000000000000007,0.0,1508.9,-1508.9
+GS069,Group Stage,L,2026-06-23,16:00,ENG,England,GHA,Ghana,VEN15,Gillette Stadium,Foxborough,United States,2,6.04,5.88,0.16000000000000014,4098.5,540.1,3558.4
+GS070,Group Stage,L,2026-06-23,19:00,PAN,Panama,CRO,Croatia,VEN02,BMO Field,Toronto,Canada,76,6.0,6.17,-0.16999999999999993,0.0,3622.1,-3622.1
+GS064,Group Stage,K,2026-06-23,20:00,COL,Colombia,COD,DR Congo,VEN05,Estadio Akron,Zapopan,Mexico,540,6.0,6.33,-0.33000000000000007,716.7,844.2,-127.5
+GS011,Group Stage,B,2026-06-24,12:00,SUI,Switzerland,CAN,Canada,VEN01,BC Place,Vancouver,Canada,70,6.0,5.88,0.1200000000000001,2530.2,0.0,2530.2
+GS012,Group Stage,B,2026-06-24,12:00,BIH,Bosnia and Herzegovina,QAT,Qatar,VEN13,Lumen Field,Seattle,United States,2,6.0,5.88,0.1200000000000001,1970.7,4491.5,-2520.8
+GS018,Group Stage,C,2026-06-24,18:00,MAR,Morocco,HAI,Haiti,VEN10,Mercedes-Benz Stadium,Atlanta,United States,13,5.0,4.88,0.1200000000000001,1134.7,2289.3,-1154.6000000000001
+GS017,Group Stage,C,2026-06-24,18:00,SCO,Scotland,BRA,Brazil,VEN16,Hard Rock Stadium,Miami Gardens,United States,88,5.0,4.88,0.1200000000000001,1475.8,273.9,1201.9
+GS006,Group Stage,A,2026-06-24,19:00,RSA,South Africa,KOR,South Korea,VEN04,Estadio BBVA,Guadalupe,Mexico,1566,6.29,6.0,0.29000000000000004,1286.9,644.7,642.2
+GS005,Group Stage,A,2026-06-24,19:00,CZE,Czechia,MEX,Mexico,VEN03,Estadio Azteca,Mexico City,Mexico,2200,6.29,6.0,0.29000000000000004,1214.6,716.7,497.89999999999986
+GS029,Group Stage,E,2026-06-25,16:00,CUW,Curacao,CIV,Ivory Coast,VEN12,Lincoln Financial Field,Philadelphia,United States,320,4.88,5.0,-0.1200000000000001,3119.5,1179.8,1939.7
+GS030,Group Stage,E,2026-06-25,16:00,ECU,Ecuador,GER,Germany,VEN06,MetLife Stadium,East Rutherford,United States,56,4.88,5.0,-0.1200000000000001,1553.1,3323.5,-1770.4
+GS036,Group Stage,F,2026-06-25,18:00,TUN,Tunisia,NED,Netherlands,VEN08,Arrowhead Stadium,Kansas City,United States,38,4.83,5.25,-0.41999999999999993,2078.0,1974.3,103.70000000000005
+GS035,Group Stage,F,2026-06-25,18:00,JPN,Japan,SWE,Sweden,VEN07,AT&T Stadium,Arlington,United States,7,4.83,5.25,-0.41999999999999993,2577.4,2314.9,262.5
+GS024,Group Stage,D,2026-06-25,19:00,PAR,Paraguay,AUS,Australia,VEN14,Levi's Stadium,Santa Clara,United States,12,5.92,6.29,-0.3700000000000001,0.0,1620.2,-1620.2
+GS023,Group Stage,D,2026-06-25,19:00,TUR,Turkiye,USA,United States,VEN11,SoFi Stadium,Inglewood,United States,265,5.92,6.29,-0.3700000000000001,1657.4,1970.7,-313.29999999999995
+GS053,Group Stage,I,2026-06-26,15:00,NOR,Norway,FRA,France,VEN15,Gillette Stadium,Foxborough,United States,2,3.79,3.92,-0.1299999999999999,3855.3,1202.9,2652.4
+GS054,Group Stage,I,2026-06-26,15:00,SEN,Senegal,IRQ,Iraq,VEN02,BMO Field,Toronto,Canada,76,3.79,3.92,-0.1299999999999999,3323.5,1179.8,2143.7
+GS048,Group Stage,H,2026-06-26,18:00,URU,Uruguay,ESP,Spain,VEN05,Estadio Akron,Zapopan,Mexico,540,5.0,5.25,-0.25,3213.6,652.5,2561.1
+GS047,Group Stage,H,2026-06-26,19:00,CPV,Cape Verde,KSA,Saudi Arabia,VEN09,NRG Stadium,Houston,United States,163,5.04,5.29,-0.25,2493.6,376.3,2117.2999999999997
+GS042,Group Stage,G,2026-06-26,20:00,NZL,New Zealand,BEL,Belgium,VEN01,BC Place,Vancouver,Canada,70,5.08,5.33,-0.25,0.0,2530.2,-2530.2
+GS041,Group Stage,G,2026-06-26,20:00,EGY,Egypt,IRN,Iran,VEN13,Lumen Field,Seattle,United States,2,5.08,5.33,-0.25,4491.5,1970.7,2520.8
+GS071,Group Stage,L,2026-06-27,17:00,PAN,Panama,ENG,England,VEN06,MetLife Stadium,East Rutherford,United States,56,3.92,4.04,-0.1200000000000001,3323.5,3855.3,-531.8000000000002
+GS072,Group Stage,L,2026-06-27,17:00,CRO,Croatia,GHA,Ghana,VEN12,Lincoln Financial Field,Philadelphia,United States,320,3.92,4.04,-0.1200000000000001,1179.8,1202.9,-23.100000000000136
+GS065,Group Stage,K,2026-06-27,19:30,COL,Colombia,POR,Portugal,VEN16,Hard Rock Stadium,Miami Gardens,United States,88,3.98,4.31,-0.3299999999999996,3213.6,2493.6,720.0
+GS066,Group Stage,K,2026-06-27,19:30,COD,DR Congo,UZB,Uzbekistan,VEN10,Mercedes-Benz Stadium,Atlanta,United States,13,3.98,4.31,-0.3299999999999996,652.5,376.3,276.2
+GS059,Group Stage,J,2026-06-27,21:00,ALG,Algeria,AUT,Austria,VEN08,Arrowhead Stadium,Kansas City,United States,38,5.04,5.38,-0.33999999999999986,3856.0,504.6,3351.4
+GS060,Group Stage,J,2026-06-27,21:00,JOR,Jordan,ARG,Argentina,VEN07,AT&T Stadium,Arlington,United States,7,5.04,5.38,-0.33999999999999986,4027.1,0.0,4027.1

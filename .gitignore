@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs/temp
+*.log
+tmp/
+temp/
+
+# Model/data notes:
+# Keep the included model/data files for this portfolio demo.
+# If GitHub blocks a large file, use Git LFS for models/*.pkl.

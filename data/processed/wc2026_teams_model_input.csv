@@ -1,0 +1,49 @@
+team_id,fifa_code,team_name,common_name,group_code,group_slot,confederation,is_host,host_country,fifa_rank,fifa_points,points_status,rank_strength_rating,confederation_bonus,host_bonus_available,model_rating_neutral,ranking_date,ranking_source_url,model_version
+MEX,MEX,Mexico,Mexico,A,1,CONCACAF,1,Mexico,14,1687.48,exact,1945.0,0.0,70.0,1945.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+RSA,RSA,South Africa,South Africa,A,2,CAF,0,,60,1428.38,exact_from_prior_lookup,1600.0,0.0,0.0,1600.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+KOR,KOR,Korea Republic,South Korea,A,3,AFC,0,,25,1591.63,exact,1862.5,0.0,0.0,1862.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CZE,CZE,Czechia,Czech Republic,A,4,UEFA,0,,40,1505.74,exact,1750.0,15.0,0.0,1765.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CAN,CAN,Canada,Canada,B,1,CONCACAF,1,Canada,30,1559.48,exact,1825.0,0.0,70.0,1825.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+BIH,BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,B,2,UEFA,0,,64,1387.22,exact_from_prior_lookup,1570.0,15.0,0.0,1585.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+QAT,QAT,Qatar,Qatar,B,3,AFC,0,,56,,missing_rank_only,1630.0,0.0,0.0,1630.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+SUI,SUI,Switzerland,Switzerland,B,4,UEFA,0,,19,1650.06,exact,1907.5,15.0,0.0,1922.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+BRA,BRA,Brazil,Brazil,C,1,CONMEBOL,0,,6,1765.86,exact,2005.0,25.0,0.0,2030.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+MAR,MAR,Morocco,Morocco,C,2,CAF,0,,7,1755.1,exact,1997.5,0.0,0.0,1997.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+HAI,HAI,Haiti,Haiti,C,3,CONCACAF,0,,83,,missing_rank_only,1427.5,0.0,0.0,1427.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+SCO,SCO,Scotland,Scotland,C,4,UEFA,0,,42,1503.34,exact,1735.0,15.0,0.0,1750.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+USA,USA,United States,United States,D,1,CONCACAF,1,United States,17,1671.23,exact,1922.5,0.0,70.0,1922.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+PAR,PAR,Paraguay,Paraguay,D,2,CONMEBOL,0,,41,1505.35,exact,1742.5,25.0,0.0,1767.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+AUS,AUS,Australia,Australia,D,3,AFC,0,,27,1579.34,exact,1847.5,0.0,0.0,1847.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+TUR,TUR,Türkiye,Turkey,D,4,UEFA,0,,22,1605.73,exact,1885.0,15.0,0.0,1900.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+GER,GER,Germany,Germany,E,1,UEFA,0,,10,1735.77,exact,1975.0,15.0,0.0,1990.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CUW,CUW,Curaçao,Curacao,E,2,CONCACAF,0,,82,,missing_rank_only,1435.0,0.0,0.0,1435.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CIV,CIV,Côte d’Ivoire,Ivory Coast,E,3,CAF,0,,33,1540.87,exact,1802.5,0.0,0.0,1802.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+ECU,ECU,Ecuador,Ecuador,E,4,CONMEBOL,0,,23,1598.52,exact,1877.5,25.0,0.0,1902.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+NED,NED,Netherlands,Netherlands,F,1,UEFA,0,,8,1753.57,exact,1990.0,15.0,0.0,2005.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+JPN,JPN,Japan,Japan,F,2,AFC,0,,18,1661.58,exact,1915.0,0.0,0.0,1915.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+SWE,SWE,Sweden,Sweden,F,3,UEFA,0,,38,1509.79,exact,1765.0,15.0,0.0,1780.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+TUN,TUN,Tunisia,Tunisia,F,4,CAF,0,,45,1476.41,exact,1712.5,0.0,0.0,1712.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+BEL,BEL,Belgium,Belgium,G,1,UEFA,0,,9,1742.24,exact,1982.5,15.0,0.0,1997.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+EGY,EGY,Egypt,Egypt,G,2,CAF,0,,29,1562.37,exact,1832.5,0.0,0.0,1832.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+IRN,IRN,Iran,Iran,G,3,AFC,0,,20,1619.58,exact,1900.0,0.0,0.0,1900.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+NZL,NZL,New Zealand,New Zealand,G,4,OFC,0,,85,,missing_rank_only,1412.5,-5.0,0.0,1407.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+ESP,ESP,Spain,Spain,H,1,UEFA,0,,2,1874.71,exact,2035.0,15.0,0.0,2050.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CPV,CPV,Cape Verde,Cape Verde,H,2,CAF,0,,67,,missing_rank_only,1547.5,0.0,0.0,1547.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+KSA,KSA,Saudi Arabia,Saudi Arabia,H,3,AFC,0,,61,,missing_rank_only,1592.5,0.0,0.0,1592.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+URU,URU,Uruguay,Uruguay,H,4,CONMEBOL,0,,16,1673.07,exact,1930.0,25.0,0.0,1955.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+FRA,FRA,France,France,I,1,UEFA,0,,3,1870.7,exact,2027.5,15.0,0.0,2042.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+SEN,SEN,Senegal,Senegal,I,2,CAF,0,,15,1684.07,exact,1937.5,0.0,0.0,1937.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+IRQ,IRQ,Iraq,Iraq,I,3,AFC,0,,57,,missing_rank_only,1622.5,0.0,0.0,1622.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+NOR,NOR,Norway,Norway,I,4,UEFA,0,,31,1557.44,exact,1817.5,15.0,0.0,1832.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+ARG,ARG,Argentina,Argentina,J,1,CONMEBOL,0,,1,1877.27,exact,2042.5,25.0,0.0,2067.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+ALG,ALG,Algeria,Algeria,J,2,CAF,0,,28,1571.03,exact,1840.0,0.0,0.0,1840.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+AUT,AUT,Austria,Austria,J,3,UEFA,0,,24,1597.4,exact,1870.0,15.0,0.0,1885.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+JOR,JOR,Jordan,Jordan,J,4,AFC,0,,63,,missing_rank_only,1577.5,0.0,0.0,1577.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+POR,POR,Portugal,Portugal,K,1,UEFA,0,,5,1767.85,exact,2012.5,15.0,0.0,2027.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+COD,COD,Congo DR,DR Congo,K,2,CAF,0,,46,1474.43,exact,1705.0,0.0,0.0,1705.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+UZB,UZB,Uzbekistan,Uzbekistan,K,3,AFC,0,,50,1458.73,exact,1675.0,0.0,0.0,1675.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+COL,COL,Colombia,Colombia,K,4,CONMEBOL,0,,13,1698.35,exact,1952.5,25.0,0.0,1977.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+ENG,ENG,England,England,L,1,UEFA,0,,4,1828.02,exact,2020.0,15.0,0.0,2035.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+CRO,CRO,Croatia,Croatia,L,2,UEFA,0,,11,1714.87,exact,1967.5,15.0,0.0,1982.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+GHA,GHA,Ghana,Ghana,L,3,CAF,0,,73,,missing_rank_only,1502.5,0.0,0.0,1502.5,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1
+PAN,PAN,Panama,Panama,L,4,CONCACAF,0,,34,1539.16,exact,1795.0,0.0,0.0,1795.0,2026-06-11,https://www.sofascore.com/football/rankings/fifa,wc2026_team_rank_baseline_v1

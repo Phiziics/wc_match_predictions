@@ -1,0 +1,7 @@
+specialist,optimized_weight
+strength_elo_logistic,0.2922559246920071
+recent_form_random_forest,0.10037672453233172
+poisson_scoreline_model,0.3695480773242633
+context_xgboost,0.10235994083335441
+full_xgboost,1.7396614670762076e-18
+draw_risk_classifier,0.1354593326180434

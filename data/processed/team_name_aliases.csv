@@ -1,0 +1,128 @@
+canonical_team_id,canonical_team_name,source_name,source
+MEX,Mexico,MEX,teams_2026
+MEX,Mexico,Mexico,teams_2026
+RSA,South Africa,South Africa,teams_2026
+RSA,South Africa,RSA,teams_2026
+KOR,Korea Republic,South Korea,teams_2026
+KOR,Korea Republic,KOR,teams_2026
+KOR,Korea Republic,Korea Republic,teams_2026
+CZE,Czechia,CZE,teams_2026
+CZE,Czechia,Czech Republic,teams_2026
+CZE,Czechia,Czechia,teams_2026
+CAN,Canada,Canada,teams_2026
+CAN,Canada,CAN,teams_2026
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,teams_2026
+BIH,Bosnia and Herzegovina,BIH,teams_2026
+QAT,Qatar,QAT,teams_2026
+QAT,Qatar,Qatar,teams_2026
+SUI,Switzerland,SUI,teams_2026
+SUI,Switzerland,Switzerland,teams_2026
+BRA,Brazil,BRA,teams_2026
+BRA,Brazil,Brazil,teams_2026
+MAR,Morocco,Morocco,teams_2026
+MAR,Morocco,MAR,teams_2026
+HAI,Haiti,HAI,teams_2026
+HAI,Haiti,Haiti,teams_2026
+SCO,Scotland,SCO,teams_2026
+SCO,Scotland,Scotland,teams_2026
+USA,United States,United States,teams_2026
+USA,United States,USA,teams_2026
+PAR,Paraguay,Paraguay,teams_2026
+PAR,Paraguay,PAR,teams_2026
+AUS,Australia,AUS,teams_2026
+AUS,Australia,Australia,teams_2026
+TUR,Türkiye,TUR,teams_2026
+TUR,Türkiye,Turkey,teams_2026
+TUR,Türkiye,Türkiye,teams_2026
+GER,Germany,GER,teams_2026
+GER,Germany,Germany,teams_2026
+CUW,Curaçao,Curaçao,teams_2026
+CUW,Curaçao,Curacao,teams_2026
+CUW,Curaçao,CUW,teams_2026
+CIV,Côte d’Ivoire,Côte d’Ivoire,teams_2026
+CIV,Côte d’Ivoire,Ivory Coast,teams_2026
+CIV,Côte d’Ivoire,CIV,teams_2026
+ECU,Ecuador,Ecuador,teams_2026
+ECU,Ecuador,ECU,teams_2026
+NED,Netherlands,Netherlands,teams_2026
+NED,Netherlands,NED,teams_2026
+JPN,Japan,Japan,teams_2026
+JPN,Japan,JPN,teams_2026
+SWE,Sweden,SWE,teams_2026
+SWE,Sweden,Sweden,teams_2026
+TUN,Tunisia,Tunisia,teams_2026
+TUN,Tunisia,TUN,teams_2026
+BEL,Belgium,BEL,teams_2026
+BEL,Belgium,Belgium,teams_2026
+EGY,Egypt,EGY,teams_2026
+EGY,Egypt,Egypt,teams_2026
+IRN,Iran,IRN,teams_2026
+IRN,Iran,Iran,teams_2026
+NZL,New Zealand,NZL,teams_2026
+NZL,New Zealand,New Zealand,teams_2026
+ESP,Spain,Spain,teams_2026
+ESP,Spain,ESP,teams_2026
+CPV,Cape Verde,Cape Verde,teams_2026
+CPV,Cape Verde,CPV,teams_2026
+KSA,Saudi Arabia,Saudi Arabia,teams_2026
+KSA,Saudi Arabia,KSA,teams_2026
+URU,Uruguay,URU,teams_2026
+URU,Uruguay,Uruguay,teams_2026
+FRA,France,France,teams_2026
+FRA,France,FRA,teams_2026
+SEN,Senegal,Senegal,teams_2026
+SEN,Senegal,SEN,teams_2026
+IRQ,Iraq,IRQ,teams_2026
+IRQ,Iraq,Iraq,teams_2026
+NOR,Norway,NOR,teams_2026
+NOR,Norway,Norway,teams_2026
+ARG,Argentina,ARG,teams_2026
+ARG,Argentina,Argentina,teams_2026
+ALG,Algeria,Algeria,teams_2026
+ALG,Algeria,ALG,teams_2026
+AUT,Austria,Austria,teams_2026
+AUT,Austria,AUT,teams_2026
+JOR,Jordan,Jordan,teams_2026
+JOR,Jordan,JOR,teams_2026
+POR,Portugal,Portugal,teams_2026
+POR,Portugal,POR,teams_2026
+COD,Congo DR,COD,teams_2026
+COD,Congo DR,DR Congo,teams_2026
+COD,Congo DR,Congo DR,teams_2026
+UZB,Uzbekistan,Uzbekistan,teams_2026
+UZB,Uzbekistan,UZB,teams_2026
+COL,Colombia,COL,teams_2026
+COL,Colombia,Colombia,teams_2026
+ENG,England,ENG,teams_2026
+ENG,England,England,teams_2026
+CRO,Croatia,CRO,teams_2026
+CRO,Croatia,Croatia,teams_2026
+GHA,Ghana,Ghana,teams_2026
+GHA,Ghana,GHA,teams_2026
+PAN,Panama,Panama,teams_2026
+PAN,Panama,PAN,teams_2026
+USA,United States,United States,manual_alias
+USA,United States,USA,manual_alias
+USA,United States,US,manual_alias
+USA,United States,U.S.,manual_alias
+RSA,South Africa,South Africa,manual_alias
+BIH,Bosnia and Herzegovina,Bosnia,manual_alias
+BIH,Bosnia and Herzegovina,Bosnia-Herzegovina,manual_alias
+BIH,Bosnia and Herzegovina,Bosnia and Herzegovina,manual_alias
+KOR,Korea Republic,Korea Republic,manual_alias
+KOR,Korea Republic,South Korea,manual_alias
+CZE,Czechia,Czechia,manual_alias
+CZE,Czechia,Czech Republic,manual_alias
+TUR,Türkiye,Türkiye,manual_alias
+TUR,Türkiye,Turkey,manual_alias
+CIV,Côte d’Ivoire,Ivory Coast,manual_alias
+CIV,Côte d’Ivoire,Côte d’Ivoire,manual_alias
+CIV,Côte d’Ivoire,Côte d'Ivoire,manual_alias
+COD,Congo DR,DR Congo,manual_alias
+COD,Congo DR,Congo DR,manual_alias
+COD,Congo DR,Democratic Republic of the Congo,manual_alias
+CUW,Curaçao,Curacao,manual_alias
+CUW,Curaçao,Curaçao,manual_alias
+CPV,Cape Verde,Cape Verde,manual_alias
+KSA,Saudi Arabia,Saudi Arabia,manual_alias
+NZL,New Zealand,New Zealand,manual_alias

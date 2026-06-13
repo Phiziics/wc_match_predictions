@@ -1,0 +1,36 @@
+match,model_name,team_b_win_probability,draw_probability,team_a_win_probability,blend_weight
+Mexico vs South Africa,strength_elo_logistic,0.0913,0.215,0.6937,0.2923
+Mexico vs South Africa,recent_form_random_forest,0.1676,0.2157,0.6167,0.1004
+Mexico vs South Africa,poisson_scoreline_model,0.1308,0.2137,0.6555,0.3695
+Mexico vs South Africa,context_xgboost,0.3457,0.2233,0.431,0.1024
+Mexico vs South Africa,full_xgboost,0.1316,0.1824,0.686,0.0
+Mexico vs South Africa,draw_risk_classifier,0.1263,0.2159,0.6578,0.1355
+Mexico vs South Africa,fifa_rank_points_specialist_untrained,0.0199,0.1161,0.864,0.0
+Canada vs Bosnia and Herzegovina,strength_elo_logistic,0.0627,0.1699,0.7674,0.2923
+Canada vs Bosnia and Herzegovina,recent_form_random_forest,0.19,0.2409,0.5691,0.1004
+Canada vs Bosnia and Herzegovina,poisson_scoreline_model,0.1626,0.245,0.5924,0.3695
+Canada vs Bosnia and Herzegovina,context_xgboost,0.331,0.225,0.4441,0.1024
+Canada vs Bosnia and Herzegovina,full_xgboost,0.1444,0.2238,0.6318,0.0
+Canada vs Bosnia and Herzegovina,draw_risk_classifier,0.1457,0.2164,0.6378,0.1355
+Canada vs Bosnia and Herzegovina,fifa_rank_points_specialist_untrained,0.0523,0.201,0.7467,0.0
+United States vs Paraguay,strength_elo_logistic,0.2858,0.3186,0.3956,0.2923
+United States vs Paraguay,recent_form_random_forest,0.335,0.258,0.407,0.1004
+United States vs Paraguay,poisson_scoreline_model,0.2655,0.2625,0.472,0.3695
+United States vs Paraguay,context_xgboost,0.2719,0.232,0.496,0.1024
+United States vs Paraguay,full_xgboost,0.3599,0.2492,0.3909,0.0
+United States vs Paraguay,draw_risk_classifier,0.3512,0.2674,0.3815,0.1355
+United States vs Paraguay,fifa_rank_points_specialist_untrained,0.077,0.2468,0.6762,0.0
+Brazil vs Morocco,strength_elo_logistic,0.347,0.3323,0.3208,0.2923
+Brazil vs Morocco,recent_form_random_forest,0.407,0.2571,0.3359,0.1004
+Brazil vs Morocco,poisson_scoreline_model,0.4673,0.2659,0.2668,0.3695
+Brazil vs Morocco,context_xgboost,0.4056,0.2277,0.3667,0.1024
+Brazil vs Morocco,full_xgboost,0.3754,0.2833,0.3413,0.0
+Brazil vs Morocco,draw_risk_classifier,0.3789,0.2766,0.3445,0.1355
+Brazil vs Morocco,fifa_rank_points_specialist_untrained,0.2774,0.4111,0.3115,0.0
+Spain vs Uruguay,strength_elo_logistic,0.0634,0.2131,0.7235,0.2923
+Spain vs Uruguay,recent_form_random_forest,0.2007,0.1773,0.622,0.1004
+Spain vs Uruguay,poisson_scoreline_model,0.0923,0.1699,0.7378,0.3695
+Spain vs Uruguay,context_xgboost,0.1298,0.2107,0.6595,0.1024
+Spain vs Uruguay,full_xgboost,0.1087,0.2118,0.6794,0.0
+Spain vs Uruguay,draw_risk_classifier,0.1105,0.1993,0.6903,0.1355
+Spain vs Uruguay,fifa_rank_points_specialist_untrained,0.09,0.267,0.643,0.0
