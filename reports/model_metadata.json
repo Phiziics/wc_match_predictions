@@ -1,35 +1,26 @@
 {
-  "model_version": "match_edge_ai_v5_calibrated_specialist_ensemble_2026_06_11",
+  "model_version": "match_edge_ai_v5_calibrated_specialist_ensemble_recent_training",
   "model_type": "Calibrated specialist ensemble with optimized weighted blend",
   "xgboost_available": true,
   "scipy_available": true,
   "weight_optimizer": "scipy_slsqp",
   "optimized_weights": {
-    "strength_elo_logistic": 0.2922559246920071,
-    "recent_form_random_forest": 0.10037672453233172,
-    "poisson_scoreline_model": 0.3695480773242633,
-    "context_xgboost": 0.10235994083335441,
-    "full_xgboost": 1.7396614670762076e-18,
-    "draw_risk_classifier": 0.1354593326180434
+    "strength_elo_logistic": 0.40470467463973564,
+    "recent_form_random_forest": 0.1117949484882528,
+    "poisson_scoreline_model": 0.08548653519796887,
+    "context_xgboost": 0.05987948159153466,
+    "full_xgboost": 0.16284527688118325,
+    "draw_risk_classifier": 0.17528908320132464
   },
-  "temperature": 0.96984126984127,
-  "specialists": {
-    "strength_elo_logistic": "Logistic Regression on Elo/opponent strength",
-    "recent_form_random_forest": "Random Forest on recent form",
-    "poisson_scoreline_model": "Two Poisson regressors for expected goals and scoreline probabilities",
-    "context_xgboost": "XGBoost model on host/neutral/rest proxy/importance",
-    "full_xgboost": "XGBoost model on all historical features",
-    "draw_risk_classifier": "Binary XGBoost classifier for draw risk",
-    "fifa_rank_points_specialist": "Current-team-only FIFA rank/points heuristic for explanation, not training target",
-    "context_adjustment": "Optional conservative heuristic for rest/travel/weather values supplied at prediction time"
-  },
+  "temperature": 0.9452380952380953,
   "target_mapping": {
     "0": "Team A loss",
     "1": "Draw",
     "2": "Team A win"
   },
-  "base_train_window": "2014-01-01 through 2021-12-31",
-  "blend_train_window": "2022-01-01 through 2023-12-31",
-  "test_window": "2024-01-01 through 2026-06-10",
+  "base_train_window": "before 2024-01-01",
+  "blend_train_window": "2024-01-01 through before 2026-01-01",
+  "test_window": "2026-01-01 through before 2026-06-11",
+  "deployment_training_window": "all matches before 2026-06-11",
   "prediction_scope": "Only the 48 World Cup 2026 teams are accepted."
 }

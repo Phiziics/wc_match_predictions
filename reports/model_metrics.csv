@@ -1,9 +1,9 @@
 model,scenario,role,accuracy,log_loss,base_train_rows,blend_train_rows,test_rows
-optimized_weighted_blend_calibrated,optimized blend plus temperature calibration,final,0.6117,0.8606,3429,866,1195
-optimized_weighted_blend_raw,optimized blend before calibration,final,0.6117,0.8607,3429,866,1195
-strength_elo_logistic,overall team strength,specialist,0.6067,0.8687,3429,866,1195
-draw_risk_classifier,draw risk,specialist,0.61,0.8691,3429,866,1195
-full_xgboost,full nonlinear 1X2,specialist,0.6117,0.8703,3429,866,1195
-poisson_scoreline_model,expected score / scoreline,specialist,0.6017,0.8803,3429,866,1195
-recent_form_random_forest,recent form,specialist,0.5849,0.8959,3429,866,1195
-context_xgboost,match context,specialist,0.5498,0.9505,3429,866,1195
+optimized_weighted_blend_calibrated,optimized blend plus temperature calibration,final,0.6013,0.8712,4295,1042,153
+optimized_weighted_blend_raw,optimized blend before calibration,final,0.6013,0.874,4295,1042,153
+strength_elo_logistic,overall team strength,specialist,0.6144,0.8688,4295,1042,153
+full_xgboost,full nonlinear 1X2,specialist,0.5948,0.8724,4295,1042,153
+draw_risk_classifier,draw risk,specialist,0.5882,0.8788,4295,1042,153
+poisson_scoreline_model,expected score / scoreline,specialist,0.5817,0.8819,4295,1042,153
+recent_form_random_forest,recent form,specialist,0.5359,0.941,4295,1042,153
+context_xgboost,match context,specialist,0.5033,1.0012,4295,1042,153
