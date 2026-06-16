@@ -4,6 +4,7 @@ scikit-learn
 xgboost
 scipy
 streamlit
-
+lightgbm
 matplotlib
 jupyter
+catboost
