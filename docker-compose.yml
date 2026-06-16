@@ -1,0 +1,7 @@
+services:
+  match-edge-ai:
+    build: .
+    container_name: match-edge-ai
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
