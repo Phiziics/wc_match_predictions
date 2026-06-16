@@ -1,12 +1,9 @@
-streamlit
+streamlit==1.58.0
 pandas
 numpy
 scipy
-scikit-learn
+scikit-learn==1.7.2
 joblib
-cloudpickle
 plotly
-xgboost
-lightgbm
-catboost
-imbalanced-learn
+xgboost==3.2.0
+cloudpickle
